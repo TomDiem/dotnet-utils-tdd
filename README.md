@@ -1,8 +1,8 @@
 # DotNetUtils.Core
 
-[![Build Status](https://github.com/your-username/dotnet-utils-tdd/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/your-username/dotnet-utils-tdd/actions)
+[![Build Status](https://github.com/TomDiem/dotnet-utils-tdd/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/TomDiem/dotnet-utils-tdd/actions)
 [![NuGet Version](https://img.shields.io/nuget/v/DotNetUtils.Core.svg)](https://www.nuget.org/packages/DotNetUtils.Core/)
-[![Coverage](https://codecov.io/gh/your-username/dotnet-utils-tdd/branch/main/graph/badge.svg)](https://codecov.io/gh/your-username/dotnet-utils-tdd)
+[![Coverage](https://codecov.io/gh/TomDiem/dotnet-utils-tdd/branch/main/graph/badge.svg)](https://codecov.io/gh/TomDiem/dotnet-utils-tdd)
 
 Un conjunto completo de utilidades para .NET desarrolladas con Test-Driven Development (TDD).
 
@@ -84,9 +84,3 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 - [ ] Crypto Helpers
 - [ ] JSON Helpers
 - [ ] Configuration Helpers
-
-## 📧 Contacto
-
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - tu.email@example.com
-
-Enlace del Proyecto: [https://github.com/your-username/dotnet-utils-tdd](https://github.com/your-username/dotnet-utils-tdd)
